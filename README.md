@@ -1,4 +1,4 @@
-# PortfolioPilot — Milestone 34: Generate and Validate Azure Infrastructure
+# Generate and Validate Azure Infrastructure
 
 PortfolioPilot is a stock-portfolio manager with live news, portfolio-aware AI chat (Claude Agent
 SDK), research recommendations, watchlists and alerts. It is built step by step across 36 milestones
